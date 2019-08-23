@@ -10,6 +10,8 @@ list: Open Source Contributions / Personal Repositories
   * [*Fix* swagger docs missing schema attr for primitive body type param](https://github.com/beego/bee/pull/595)
 * [**jenkinsci/gitlab-plugin**](https://github.com/jenkinsci/gitlab-plugin)
   * [*Fix* Accepted merge request event can not trigger Jenkins job](https://github.com/jenkinsci/gitlab-plugin/pull/951)
+* [**gin-contrib/cors**](https://github.com/gin-contrib/cors)
+  * [*Fix* parseWildcardRules removes the last non-asterisk character wrongly](https://github.com/gin-contrib/cors/pull/57)
   
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
