@@ -12,6 +12,8 @@ list: Open Source Contributions / Personal Repositories
   * [*Fix* Accepted merge request event can not trigger Jenkins job](https://github.com/jenkinsci/gitlab-plugin/pull/951)
 * [**gin-contrib/cors**](https://github.com/gin-contrib/cors)
   * [*Fix* parseWildcardRules removes the last non-asterisk character wrongly](https://github.com/gin-contrib/cors/pull/57)
+* [**GoogleCloudPlatform/gsutil**](https://github.com/GoogleCloudPlatform/gsutil)
+  * [*Fix-Issue-935*: fix error while transferring binary from S3 with Python3](https://github.com/GoogleCloudPlatform/gsutil/pull/936)
   
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
