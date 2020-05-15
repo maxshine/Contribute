@@ -5,7 +5,7 @@ list: Open Source Contributions / Personal Repositories
 ## Open Source Contributions (4 merged)
 * [**astaxie/beego**](https://github.com/astaxie/beego)
   * [*Fix* the issue that genRouterCode results in @Import annotations getting overwritten](https://github.com/astaxie/beego/pull/3583)
-  * [*Fix* Read with SQLite not supporting SELECT FOR UPDATE syntax](https://github.com/astaxie/beego/pull/3611)
+  * [*Fix* Read with SQLite not supporting SELECT FOR UPDATE syntax](https://github.com/astaxie/beego/pull/3992)
 * [**beego/bee**](https://github.com/beego/bee)
   * [*Fix* swagger docs missing schema attr for primitive body type param](https://github.com/beego/bee/pull/595)
 * [**jenkinsci/gitlab-plugin**](https://github.com/jenkinsci/gitlab-plugin)
