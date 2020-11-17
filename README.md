@@ -14,9 +14,11 @@ list: Open Source Contributions / Personal Repositories
   * [*Fix* parseWildcardRules removes the last non-asterisk character wrongly](https://github.com/gin-contrib/cors/pull/57)
 * [**GoogleCloudPlatform/gsutil**](https://github.com/GoogleCloudPlatform/gsutil)
   * [*Fix-Issue-935*: fix error while transferring binary from S3 with Python3](https://github.com/GoogleCloudPlatform/gsutil/pull/936)
-  
+* [**jinzhu/gorm**](https://github.com/jinzhu/gorm)
+  * [*Fix* join_table_handler break insert select into two queries to avoid deadlock](https://github.com/jinzhu/gorm/pull/11)
+  * [add custom flag gorm:custom_transaction to bypass default transaction](https://github.com/jinzhu/gorm/pull/12)
+    
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
 * [**maxshine/weicoPI**](https://github.com/maxshine/weicoPI): A curses-based terminal client for Sina Weibo
 * [**maxshine/sensorSimulator**](https://github.com/maxshine/sensorSimulator): A stress test tool to simulate many WiFi stations emitting wireless IP packets
-
