@@ -19,6 +19,8 @@ list: Open Source Contributions / Personal Repositories
   * [add custom flag gorm:custom_transaction to bypass default transaction](https://github.com/jinzhu/gorm/pull/12)
 * [**ibis-project/ibis**](https://github.com/ibis-project/ibis)
   * [fix(bigquery): respect the fully qualified table name at the init](https://github.com/ibis-project/ibis/pull/6717)
+* [**seratch/ChatGPT-in-Slac**](https://github.com/seratch/ChatGPT-in-Slack)
+  * [Fix the issue of no reply in a threaded mentioned message](https://github.com/seratch/ChatGPT-in-Slack/pull/71)
     
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
