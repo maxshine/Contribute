@@ -2,7 +2,7 @@
 list: Open Source Contributions / Personal Repositories
 
 
-## Open Source Contributions (6 accepted)
+## Open Source Contributions (12 accepted)
 * [**astaxie/beego**](https://github.com/astaxie/beego)
   * [*Fix* the issue that genRouterCode results in @Import annotations getting overwritten](https://github.com/astaxie/beego/pull/3583)
   * [*Fix* Read with SQLite not supporting SELECT FOR UPDATE syntax](https://github.com/beego/beego/pull/3992)
@@ -20,6 +20,7 @@ list: Open Source Contributions / Personal Repositories
   * [*Fix* join_table_handler break insert select into two queries to avoid deadlock](https://github.com/jinzhu/gorm/pull/11)
   * [add custom flag gorm:custom_transaction to bypass default transaction](https://github.com/jinzhu/gorm/pull/12)
 * [**ibis-project/ibis**](https://github.com/ibis-project/ibis)
+  * [bug: Bigquery backend Table init does not respect the fully qualified table name input](https://github.com/ibis-project/ibis/issues/6715) 
   * [fix(bigquery): respect the fully qualified table name at the init](https://github.com/ibis-project/ibis/pull/6717)
   * [bug: cumsum function does not work as expected in Bigquery backend due to ibis default window frame logic](https://github.com/ibis-project/ibis/issues/10699)
   * [fix(bigquery): let bigquery backend respect window frame set by users](https://github.com/ibis-project/ibis/pull/10700)
