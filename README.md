@@ -2,8 +2,8 @@
 list: Open Source Contributions / Personal Repositories
 
 
-## Open Source Contributions (12 accepted)
-* [**astaxie/beego**](https://github.com/astaxie/beego)
+## Open Source Contributions (11 accepted)
+* [**astaxie/beego**](https://github.com/beego/beego)
   * [*Fix* the issue that genRouterCode results in @Import annotations getting overwritten](https://github.com/astaxie/beego/pull/3583)
   * [*Fix* Read with SQLite not supporting SELECT FOR UPDATE syntax](https://github.com/beego/beego/pull/3992)
   * [SQLite not supporting SELECT FOR UPDATE syntax](https://github.com/beego/beego/issues/3991)
