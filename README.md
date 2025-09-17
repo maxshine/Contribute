@@ -32,3 +32,4 @@ list: Open Source Contributions / Personal Repositories
 * [**maxshine/weicoPI**](https://github.com/maxshine/weicoPI): A curses-based terminal client for Sina Weibo
 * [**maxshine/sensorSimulator**](https://github.com/maxshine/sensorSimulator): A stress test tool to simulate many WiFi stations emitting wireless IP packets
 * [**GitHub Action - Protect File Change By Pull Request**](https://github.com/marketplace/actions/protect-file-change-by-pull-request): A published GitHub action to check any protected files changed by a pull request
+* [**Google BigQuery Arching Tool**](https://github.com/maxshine/personal-continuous-integrations/blob/main/src/customizable_continuous_integration/automations/bigquery_archiver/README.md): A simple but helpful tool to move BigQuery data via transition by Google Cloud Storage.
