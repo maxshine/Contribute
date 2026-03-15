@@ -24,8 +24,11 @@ list: Open Source Contributions / Personal Repositories
   * [fix(bigquery): respect the fully qualified table name at the init](https://github.com/ibis-project/ibis/pull/6717)
   * [bug: cumsum function does not work as expected in Bigquery backend due to ibis default window frame logic](https://github.com/ibis-project/ibis/issues/10699)
   * [fix(bigquery): let bigquery backend respect window frame set by users](https://github.com/ibis-project/ibis/pull/10700)
-* [**seratch/ChatGPT-in-Slac**](https://github.com/seratch/ChatGPT-in-Slack)
+* [**seratch/ChatGPT-in-Slack**](https://github.com/seratch/ChatGPT-in-Slack)
   * [Fix the issue of no reply in a threaded mentioned message](https://github.com/seratch/ChatGPT-in-Slack/pull/71)
+* [**openclaw/openclaw**](https://github.com/openclaw/openclaw))
+  * [fix(channel): fix miss_scope error in slack channel when set up using onboarding manifest
+](https://github.com/openclaw/openclaw/pull/43504)
     
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
