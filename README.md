@@ -2,7 +2,7 @@
 list: Open Source Contributions / Personal Repositories
 
 
-## Open Source Contributions (11 accepted)
+## Open Source Contributions (13 accepted)
 * [**astaxie/beego**](https://github.com/beego/beego)
   * [*Fix* the issue that genRouterCode results in @Import annotations getting overwritten](https://github.com/astaxie/beego/pull/3583)
   * [*Fix* Read with SQLite not supporting SELECT FOR UPDATE syntax](https://github.com/beego/beego/pull/3992)
@@ -30,6 +30,8 @@ list: Open Source Contributions / Personal Repositories
   * [fix(channel): fix miss_scope error in slack channel when set up using onboarding manifest](https://github.com/openclaw/openclaw/pull/43504)
 * [**MarchLiu/hypatia**](https://github.com/MarchLiu/hypatia)
   * [Cascade dependency proc-macro-error2 has future-proofing issue with re-exporting private crate](https://github.com/MarchLiu/hypatia/issues/21)
+  * [[Feature Request] Expose model attachment and add model removal to both cli and MCP interface
+](https://github.com/MarchLiu/hypatia/issues/36)
     
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
