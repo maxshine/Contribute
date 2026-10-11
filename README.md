@@ -32,6 +32,8 @@ list: Open Source Contributions / Personal Repositories
   * [Cascade dependency proc-macro-error2 has future-proofing issue with re-exporting private crate](https://github.com/MarchLiu/hypatia/issues/21)
   * [[Feature Request] Expose model attachment and add model removal to both cli and MCP interface
 ](https://github.com/MarchLiu/hypatia/issues/36)
+  * [[Issue Report] token_type_ids is missed when doing embedding with BERT models](https://github.com/MarchLiu/hypatia/issues/38)
+  * [fix(embedding):Issue-38:keep token_types_id returned by tokenizer to feed requiring models](https://github.com/MarchLiu/hypatia/pull/39)
     
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
