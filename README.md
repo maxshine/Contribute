@@ -33,7 +33,9 @@ list: Open Source Contributions / Personal Repositories
   * [[Feature Request] Expose model attachment and add model removal to both cli and MCP interface
 ](https://github.com/MarchLiu/hypatia/issues/36)
   * [[Issue Report] token_type_ids is missed when doing embedding with BERT models](https://github.com/MarchLiu/hypatia/issues/38)
+  * [[Enhancement Request] Operator $not_summaried sounds a bit weird and adds mind burden to users](https://github.com/MarchLiu/hypatia/issues/40)
   * [fix(embedding):Issue-38:keep token_types_id returned by tokenizer to feed requiring models](https://github.com/MarchLiu/hypatia/pull/39)
+  * [[Issue-40][Enhancing Improvement]: fix not-summaried operator spelling](https://github.com/MarchLiu/hypatia/pull/41)
     
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
