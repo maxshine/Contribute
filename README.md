@@ -34,8 +34,10 @@ list: Open Source Contributions / Personal Repositories
 ](https://github.com/MarchLiu/hypatia/issues/36)
   * [[Issue Report] token_type_ids is missed when doing embedding with BERT models](https://github.com/MarchLiu/hypatia/issues/38)
   * [[Enhancement Request] Operator $not_summaried sounds a bit weird and adds mind burden to users](https://github.com/MarchLiu/hypatia/issues/40)
+  * [[Issue Report] LoCoMo and LongMemEval benchmarks miss embedding enablement even Hypatia has been configured with embedding](https://github.com/MarchLiu/hypatia/issues/42)
   * [fix(embedding):Issue-38:keep token_types_id returned by tokenizer to feed requiring models](https://github.com/MarchLiu/hypatia/pull/39)
   * [[Issue-40][Enhancing Improvement]: fix not-summaried operator spelling](https://github.com/MarchLiu/hypatia/pull/41)
+  * [[Issue-42] [Bugfix] Restore memory benchmark when embedding is enabled with new model configs](https://github.com/MarchLiu/hypatia/pull/43)
     
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
