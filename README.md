@@ -26,7 +26,7 @@ list: Open Source Contributions / Personal Repositories
   * [fix(bigquery): let bigquery backend respect window frame set by users](https://github.com/ibis-project/ibis/pull/10700)
 * [**seratch/ChatGPT-in-Slack**](https://github.com/seratch/ChatGPT-in-Slack)
   * [Fix the issue of no reply in a threaded mentioned message](https://github.com/seratch/ChatGPT-in-Slack/pull/71)
-* [**openclaw/openclaw**](https://github.com/openclaw/openclaw))
+* [**openclaw/openclaw**](https://github.com/openclaw/openclaw)
   * [fix(channel): fix miss_scope error in slack channel when set up using onboarding manifest](https://github.com/openclaw/openclaw/pull/43504)
 * [**MarchLiu/hypatia**](https://github.com/MarchLiu/hypatia)
   * [Cascade dependency proc-macro-error2 has future-proofing issue with re-exporting private crate](https://github.com/MarchLiu/hypatia/issues/21)
