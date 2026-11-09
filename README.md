@@ -38,6 +38,9 @@ list: Open Source Contributions / Personal Repositories
   * [fix(embedding):Issue-38:keep token_types_id returned by tokenizer to feed requiring models](https://github.com/MarchLiu/hypatia/pull/39)
   * [[Issue-40][Enhancing Improvement]: fix not-summaried operator spelling](https://github.com/MarchLiu/hypatia/pull/41)
   * [[Issue-42] [Bugfix] Restore memory benchmark when embedding is enabled with new model configs](https://github.com/MarchLiu/hypatia/pull/43)
+* [**OpenAI/Codex**](https://github.com/openai/codex)
+  * [Codex CLI 0.166 does not honor plugins bundled hooks declared in AgentPlugin manifest form
+](https://github.com/openai/codex/issues/59516)
     
 ## Personal Repositories
 * [**maxshine/ContainerUtility**](https://github.com/maxshine/ContainerUtility):A set of scripts to facility using device-mapper with Docker
